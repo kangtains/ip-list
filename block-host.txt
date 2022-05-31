@@ -1,1 +1,5 @@
 firebase-settings.crashlytics.com
+
+! 2022-01-05 https://20.detik.com
+||cdnv.detik.com^
+||vod.detik.com^
