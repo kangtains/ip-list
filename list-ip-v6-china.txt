@@ -4,7 +4,6 @@
 # Last Generated: 08 Jun 2022 06:34:20 GMT
 # [Important] Please update this list every month
 # -------------------------------------------------------
-<Limit GET HEAD POST>
 ::FFFF:1.0.1.0/120
 ::FFFF:1.0.2.0/119
 ::FFFF:1.0.8.0/117
@@ -29233,4 +29232,3 @@
 2A10:2F00:15C::/48
 2A10:4D00::/29
 2A12:F8C0::/32
-</Limit>
