@@ -1,5 +1,5 @@
-firebase-settings.crashlytics.com
-
-! 2022-01-05 https://20.detik.com
-||cdnv.detik.com^
-||vod.detik.com^
+198.46.175.181
+189.1.157.176
+189.1.157.176
+198.46.175.181
+162.215.1.196
