@@ -1,0 +1,17 @@
+! 2023-01-21 https://20.detik.com
+||vod.detik.com/mc/_definst_/smil:http/mc/video/*$xhr
+||cdn.detik.net.id/detikVideo/*
+
+! 2023-02-01 https://katadata.co.id
+||3001217-katadata.cf.ivideosmart.com^
+||p-events.ivideosmart.com^
+
+! 2023-02-01 https://www.detik.com
+||tv.detik.com^
+
+! 2023-02-01 https://sport.detik.com
+||videos-fms.jwpsrv.com^
+||cdn.jwplayer.com^
+
+! 2022-04-07 https://news.detik.com
+||20.detik.com/watch/*
