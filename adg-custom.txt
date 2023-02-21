@@ -8,3 +8,10 @@
 ||dragate-in-dc.heytapmobile.com^
 ||mdp-appconf-sg.heytapdl.com^
 ||adx-in.ads.heytapmobile.com^
+||ifsau.coloros.com^
+||heytapmobile.com^
+||ivideosmart.com^
+||oppomobile.com^
+||allawnos.com^
+||heytapmobi.com^
+||heytapdl.com^
