@@ -16,3 +16,12 @@
 ||heytapmobi.com^
 ||heytapdl.com^
 ||vod.detik.com
+||update.whatsaero.com^
+||dailyinnovation.biz^
+||yandex.ru^
+||api.weather.com^
+||20.detik.com^
+||videoclipf.apps.coloros.com^
+||video.jixie.media^
+||stream.jixie.media^
+||video.kompas.com^
