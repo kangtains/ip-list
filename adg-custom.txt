@@ -50,3 +50,6 @@
 ||icota-eu.coloros.com^
 ||smartcardf.apps.coloros.com^
 ||saufsg-cost.coloros.com^
+||realmemobile.com^
+||live.cnbcindonesia.com^
+||vod.cnbcindonesia.com^
