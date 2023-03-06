@@ -56,3 +56,4 @@
 ||zaloapp.com^
 ||zalo.me
 ||www.googleadservices.com^
+||vod.cnnindonesia.com^
