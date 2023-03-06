@@ -53,3 +53,6 @@
 ||realmemobile.com^
 ||live.cnbcindonesia.com^
 ||vod.cnbcindonesia.com^
+||zaloapp.com^
+||zalo.me
+||www.googleadservices.com^
