@@ -74,7 +74,6 @@
 ||mcs.us.tiktok.com^
 ||adsintegrity.us.tiktok.com^
 ||012.developer-sg.tiktok.com^
-
 ||api16-core-c-alisg.tiktokv.com^
 ||api16-normal-c-alisg.tiktokv.com^
 ||frontier.tiktokv.com^
@@ -150,3 +149,6 @@
 ||jsb-va.tiktokv.com^
 ||api21-core-va.tiktokv.com^
 ||smr-sg.tiktokv.com^
+||s16-tiktok.com
+0.0.0.0 tiktok.com
+0.0.0.0 s16-tiktok.com
