@@ -57,3 +57,4 @@
 ||zalo.me
 ||www.googleadservices.com^
 ||vod.cnnindonesia.com^
+||geo.dailymotion.com^
