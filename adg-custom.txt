@@ -17,7 +17,7 @@
 ||heytapdl.com^
 ||vod.detik.com
 ||update.whatsaero.com^
-||dailyinnovation.biz^
+## ||dailyinnovation.biz^
 ||yandex.ru^
 ||api.weather.com^
 ||20.detik.com^
