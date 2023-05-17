@@ -11,7 +11,7 @@
 ||ifsau.coloros.com^
 ||heytapmobile.com^
 ||ivideosmart.com^
-||oppomobile.com^
+## ||oppomobile.com^
 ||allawnos.com^
 ||heytapmobi.com^
 ||heytapdl.com^
