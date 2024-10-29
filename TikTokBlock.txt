@@ -5990,3 +5990,5 @@
 ||pull-f5-sg01.ttlivecdn.com.c.worldfcdn.com
 ||1561539925.rsc.cdn77.org
 ||tnc16-useast1a.byteoversea.com
+
+||lf16-tiktok-web.ttwstatic.com.edgesuite.net^
