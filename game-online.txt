@@ -3,3 +3,4 @@
 ||builds.crazygames.com^
 ||playhop.com^
 ||pbskids.org^
+||youngjoygame.com^
