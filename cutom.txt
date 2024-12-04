@@ -2,3 +2,7 @@
 ||tiktokcdn-eu.com^
 ||tiktokv.com.edgekey.net^
 ||tiktokcdn-eu.com.akamaized.net^
+||frmdom.com^
+||bmetrics.org^
+||browsec.com^
+||trafcfy.com^
