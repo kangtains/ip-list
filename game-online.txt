@@ -43,4 +43,4 @@
 ||games.s3.yandex.net^
 ||ahagamecenter.com^
 ||greedygame.com^
-||https://joyit.live^
+||joyit.live^
