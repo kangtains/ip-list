@@ -12,3 +12,4 @@
 ||6gamehub.com^
 ||*.tiktokeu-cdn.com^
 ||tiktokrow-cdn.com^
+||snackvideo.in^
